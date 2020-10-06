@@ -1,0 +1,10 @@
+/.idea
+/.classpath
+/target/*
+output/
+/.project
+*.DS_Store
+/src/test/resources
+/target/
+/Reports/
+src/test/java/br/com/userede/runner/
